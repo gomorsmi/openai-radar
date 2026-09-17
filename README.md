@@ -175,4 +175,4 @@ src/openai_radar/
 
 ## Part of the Hyperscaler Radar suite
 
-`aws-radar` · `gcp-radar` · `azure-radar` · `oci-radar` · `openai-radar` · `datadog-radar` · `coreweave-radar`
+`aws-radar` · `gcp-radar` · `azure-radar` · `oci-radar` · `openai-radar` ·`claude-radar` · `gemini-radar` · `datadog-radar`
